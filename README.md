@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/791817342.svg)](https://zenodo.org/doi/10.5281/zenodo.11078557)
 # NBA Player Analysis
 
 To execute the Exercise1.ipynb using Python 3.12, the follwing components are required:  
